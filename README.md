@@ -1,3 +1,15 @@
+Hi! I'm Ebtihal 👋
+
+I'm passionate about machine learning and currently working on exciting projects in deep learning and computer vision. 🚀
+
+🧠 What I'm up to:
+Exploring deep learning and computer vision techniques.
+Building models for image classification and face recognition.
+Experimenting with TensorFlow, Keras, and PyTorch.
+🔥 What's next?
+I'll be sharing my projects here soon! 😊
+
+📫 Let's connect! Feel free to reach out for collaborations or discussions on ML & AI.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ebtihal-enfes) 
